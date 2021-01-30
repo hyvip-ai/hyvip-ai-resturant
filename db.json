@@ -1,7 +1,9 @@
-[
-    {
-      "resturantName" : "abc",
-      "resturantAddress" : "123",
-      "phNo" : "6289703125"
-    }
-]
+{
+    "resturants":[
+        {
+            "resturantName": "abc",
+            "resturantAddress": "123",
+            "phNo": "6289703125"
+        }
+    ]
+}
