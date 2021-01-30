@@ -58,5 +58,60 @@
              "person" : "rajan",
              "price":100
         }
+    ],
+
+    "reviews":[
+        {
+            "id":1,
+            "resturantName": "abc",
+            "person1" : "rajat",
+             "review1" : "very good",
+             "rating1": "5 stars",
+             "person2" : "raja",
+             "review2" : "very good",
+             "rating2": "4.5 stars",
+             "person3" : "raj",
+             "review3" : "very good",
+             "rating3": "3.5 stars"
+        },
+        {
+            "id" : 2,
+            "resturantName": "def",
+            "person1" : "rajat",
+             "review1" : "very good",
+             "rating1": "5 stars",
+             "person2" : "raja",
+             "review2" : "very good",
+             "rating2": "4.5 stars",
+             "person3" : "raj",
+             "review3" : "very good",
+             "rating3": "3.5 stars"
+        },
+        {
+            "id" : 3,
+            "resturantName": "hig",
+            "person1" : "rajat",
+             "review1" : "very good",
+             "rating1": "5 stars",
+             "person2" : "raja",
+             "review2" : "very good",
+             "rating2": "4.5 stars",
+             "person3" : "raj",
+             "review3" : "very good",
+             "rating3": "3.5 stars"
+        },
+        {
+            "id" : 4,
+            "resturantName": "jkl",
+            "person1" : "rajat",
+            "review1" : "very good",
+            "rating1": "5 stars",
+            "person2" : "raja",
+            "review2" : "very good",
+            "rating2": "4.5 stars",
+            "person3" : "raj",
+            "review3" : "very good",
+            "rating3": "3.5 stars"
+        }
     ]
 }
