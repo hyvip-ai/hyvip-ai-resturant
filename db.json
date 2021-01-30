@@ -24,5 +24,39 @@
             "resturantAddress": "956",
             "phNo": "6293125"
         }
+    ],
+    "orders":[
+        {
+            "id":1,
+            "resturantName": "abc",
+            "ordernumber":50,
+            "ordername" : "burger",
+             "person" : "rajat",
+             "price":50
+        },
+        {
+            "id" : 2,
+            "resturantName": "def",
+            "ordernumber":501,
+            "ordername" : "salad",
+             "person" : "raja",
+             "price":150
+        },
+        {
+            "id" : 3,
+            "resturantName": "hig",
+            "ordernumber":505,
+            "ordername" : "sandwitch",
+             "person" : "raj",
+             "price":90
+        },
+        {
+            "id" : 4,
+            "resturantName": "jkl",
+            "ordernumber":5010,
+            "ordername" : "pizza",
+             "person" : "rajan",
+             "price":100
+        }
     ]
 }
