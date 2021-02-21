@@ -59,7 +59,36 @@
              "price":100
         }
     ],
-
+    "products":[
+            {
+                "id":1,
+                "productName": "abc",
+                "productMrp":"200",
+                "productDescription":"kusdgvisukl",
+                "productSellingPrice":"170"
+            },
+            {
+                "id":2,
+                "productName": "def",
+                "productMrp":"300",
+                "productDescription":"AKJDIAZ",
+                "productSellingPrice":"280"
+            },
+            {
+                "id":3,
+                "productName": "ygf",
+                "productMrp":"150",
+                "productDescription":"IY8AYDQQQ",
+                "productSellingPrice":"130"
+            },
+            {
+                "id":4,
+                "productName": "por",
+                "productMrp":"250",
+                "productDescription":"jysdgfi7",
+                "productSellingPrice":"240"
+            }
+    ],
     "reviews":[
         {
             "id":1,
